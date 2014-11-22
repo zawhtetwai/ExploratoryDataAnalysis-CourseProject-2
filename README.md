@@ -19,7 +19,7 @@ This assignment uses the dataset of PM<sub>2.5</sub> emissions which was release
   - plot6.png <br/> 
 * readme.MD
 * summarySCC_PM25.rds ("PM2.5 Emissions Data" data set)
-##Prerequisites for the script (run_analysis.R)
+##Prerequisites for the scripts
 * R 3.1.1 <br/>
  -download link for Mac: http://cran.r-project.org/bin/macosx/ <br/> 
  -download link for Windows: http://cran.r-project.org/bin/windows/base/ <br/> 
