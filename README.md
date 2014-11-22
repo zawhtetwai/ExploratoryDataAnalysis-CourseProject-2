@@ -30,7 +30,7 @@ This assignment uses the dataset of PM<sub>2.5</sub> emissions which was release
  -package installation is included in the scripts
 
 ##How to run the script
-1. Clone <a href="https://github.com/zawhtetwai/datasciencecoursera/tree/master/ExploratoryDataAnalysis_CourseProject-2" target="_blank">Explatory Data Analysis (Course Project - 2)</a>  from GitHub using git clone command.
+1. Clone <a href="https://github.com/zawhtetwai/ExploratoryDataAnalysis-CourseProject-2" target="_blank">Explatory Data Analysis (Course Project - 2)</a>  from GitHub using git clone command.
 2. Launch the RGUI.
 3. Set the working directroy using setwd("to the folder that cloned from GitHub in Step#1")
 4. Type 'source("plot1.R")' without single quote for plot1.png.
