@@ -2,6 +2,7 @@
 This assignment uses the dataset of PM<sub>2.5</sub> emissions which was released by the EPA. This database for emissions of PM<sub>2.5</sub> is known as the National Emissions Inventory (NEI). You can read more information about the NEI at the <a href="http://www.epa.gov/ttn/chief/eiinformation.html" target="_blank"> EPA National Emissions Inventory</a> web site. 
 
 ##Deliverables for the assignment
+* README.MD
 * Source_Classification_Code.rds ("Source Classification Code Table" dataset)
 * 6 R scripts to produce the 6 plot images
   - plot1.R <br/>
@@ -17,7 +18,6 @@ This assignment uses the dataset of PM<sub>2.5</sub> emissions which was release
   - plot4.png <br/> 
   - plot5.png <br/> 
   - plot6.png <br/> 
-* readme.MD
 * summarySCC_PM25.rds ("PM2.5 Emissions Data" data set)
 ##Prerequisites for the scripts
 * R 3.1.1 <br/>
